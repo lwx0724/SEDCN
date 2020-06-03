@@ -1,0 +1,11 @@
+1 baby_x2_HR.png	baby_x2_SR.png
+38.9699	0.9681	
+2 bird_x2_HR.png	bird_x2_SR.png
+43.5015	0.9908	
+3 butterfly_x2_HR.png	butterfly_x2_SR.png
+35.9589	0.9801	
+4 head_x2_HR.png	head_x2_SR.png
+36.0304	0.8916	
+5 woman_x2_HR.png	woman_x2_SR.png
+36.4777	0.9748	
+avg_psnr:38.1877	avg_ssim:0.9611

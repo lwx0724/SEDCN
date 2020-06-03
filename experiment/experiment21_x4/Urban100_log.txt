@@ -1,0 +1,201 @@
+1 img001_x4_HR.png	img001_x4_SR.png
+28.3482	0.7886	
+2 img002_x4_HR.png	img002_x4_SR.png
+27.6586	0.8490	
+3 img003_x4_HR.png	img003_x4_SR.png
+24.0695	0.6981	
+4 img004_x4_HR.png	img004_x4_SR.png
+24.8597	0.8747	
+5 img005_x4_HR.png	img005_x4_SR.png
+29.7815	0.9635	
+6 img006_x4_HR.png	img006_x4_SR.png
+22.9434	0.6478	
+7 img007_x4_HR.png	img007_x4_SR.png
+29.9667	0.8734	
+8 img008_x4_HR.png	img008_x4_SR.png
+21.8292	0.6895	
+9 img009_x4_HR.png	img009_x4_SR.png
+34.4916	0.9296	
+10 img010_x4_HR.png	img010_x4_SR.png
+28.0898	0.9009	
+11 img011_x4_HR.png	img011_x4_SR.png
+18.4570	0.8241	
+12 img012_x4_HR.png	img012_x4_SR.png
+24.3104	0.7615	
+13 img013_x4_HR.png	img013_x4_SR.png
+30.0908	0.8543	
+14 img014_x4_HR.png	img014_x4_SR.png
+22.6582	0.7135	
+15 img015_x4_HR.png	img015_x4_SR.png
+26.7943	0.7547	
+16 img016_x4_HR.png	img016_x4_SR.png
+31.0901	0.9211	
+17 img017_x4_HR.png	img017_x4_SR.png
+26.2690	0.8472	
+18 img018_x4_HR.png	img018_x4_SR.png
+26.4518	0.7167	
+19 img019_x4_HR.png	img019_x4_SR.png
+22.8793	0.8364	
+20 img020_x4_HR.png	img020_x4_SR.png
+22.4024	0.7361	
+21 img021_x4_HR.png	img021_x4_SR.png
+30.2995	0.8030	
+22 img022_x4_HR.png	img022_x4_SR.png
+26.1746	0.7644	
+23 img023_x4_HR.png	img023_x4_SR.png
+30.8832	0.9221	
+24 img024_x4_HR.png	img024_x4_SR.png
+21.3545	0.7158	
+25 img025_x4_HR.png	img025_x4_SR.png
+32.8054	0.9120	
+26 img026_x4_HR.png	img026_x4_SR.png
+28.8531	0.7298	
+27 img027_x4_HR.png	img027_x4_SR.png
+28.6427	0.8114	
+28 img028_x4_HR.png	img028_x4_SR.png
+31.9445	0.8867	
+29 img029_x4_HR.png	img029_x4_SR.png
+28.1105	0.8903	
+30 img030_x4_HR.png	img030_x4_SR.png
+25.2861	0.8431	
+31 img031_x4_HR.png	img031_x4_SR.png
+24.3681	0.8014	
+32 img032_x4_HR.png	img032_x4_SR.png
+29.5434	0.8668	
+33 img033_x4_HR.png	img033_x4_SR.png
+28.2223	0.8375	
+34 img034_x4_HR.png	img034_x4_SR.png
+23.4422	0.6035	
+35 img035_x4_HR.png	img035_x4_SR.png
+30.3066	0.8981	
+36 img036_x4_HR.png	img036_x4_SR.png
+29.3569	0.8945	
+37 img037_x4_HR.png	img037_x4_SR.png
+26.6883	0.8074	
+38 img038_x4_HR.png	img038_x4_SR.png
+27.6789	0.7136	
+39 img039_x4_HR.png	img039_x4_SR.png
+23.7574	0.7806	
+40 img040_x4_HR.png	img040_x4_SR.png
+28.7325	0.9580	
+41 img041_x4_HR.png	img041_x4_SR.png
+27.3262	0.9021	
+42 img042_x4_HR.png	img042_x4_SR.png
+29.5057	0.9023	
+43 img043_x4_HR.png	img043_x4_SR.png
+33.8789	0.9430	
+44 img044_x4_HR.png	img044_x4_SR.png
+32.8898	0.8899	
+45 img045_x4_HR.png	img045_x4_SR.png
+24.6964	0.7425	
+46 img046_x4_HR.png	img046_x4_SR.png
+23.8706	0.7742	
+47 img047_x4_HR.png	img047_x4_SR.png
+22.4710	0.7987	
+48 img048_x4_HR.png	img048_x4_SR.png
+20.4689	0.8254	
+49 img049_x4_HR.png	img049_x4_SR.png
+23.9846	0.7724	
+50 img050_x4_HR.png	img050_x4_SR.png
+25.5581	0.7910	
+51 img051_x4_HR.png	img051_x4_SR.png
+27.7153	0.8591	
+52 img052_x4_HR.png	img052_x4_SR.png
+30.0335	0.9284	
+53 img053_x4_HR.png	img053_x4_SR.png
+22.9108	0.7539	
+54 img054_x4_HR.png	img054_x4_SR.png
+21.5220	0.6809	
+55 img055_x4_HR.png	img055_x4_SR.png
+33.6505	0.9521	
+56 img056_x4_HR.png	img056_x4_SR.png
+25.4186	0.8014	
+57 img057_x4_HR.png	img057_x4_SR.png
+31.8292	0.9114	
+58 img058_x4_HR.png	img058_x4_SR.png
+26.6451	0.8791	
+59 img059_x4_HR.png	img059_x4_SR.png
+22.9327	0.7984	
+60 img060_x4_HR.png	img060_x4_SR.png
+22.8860	0.5961	
+61 img061_x4_HR.png	img061_x4_SR.png
+25.2440	0.7883	
+62 img062_x4_HR.png	img062_x4_SR.png
+22.0959	0.8342	
+63 img063_x4_HR.png	img063_x4_SR.png
+22.7207	0.6311	
+64 img064_x4_HR.png	img064_x4_SR.png
+27.1124	0.7998	
+65 img065_x4_HR.png	img065_x4_SR.png
+25.7557	0.7462	
+66 img066_x4_HR.png	img066_x4_SR.png
+22.3364	0.6558	
+67 img067_x4_HR.png	img067_x4_SR.png
+21.2349	0.9095	
+68 img068_x4_HR.png	img068_x4_SR.png
+31.6361	0.9129	
+69 img069_x4_HR.png	img069_x4_SR.png
+25.1901	0.7760	
+70 img070_x4_HR.png	img070_x4_SR.png
+22.3686	0.6141	
+71 img071_x4_HR.png	img071_x4_SR.png
+28.5724	0.6925	
+72 img072_x4_HR.png	img072_x4_SR.png
+21.5096	0.8629	
+73 img073_x4_HR.png	img073_x4_SR.png
+21.0917	0.6099	
+74 img074_x4_HR.png	img074_x4_SR.png
+24.5068	0.7562	
+75 img075_x4_HR.png	img075_x4_SR.png
+32.9866	0.9030	
+76 img076_x4_HR.png	img076_x4_SR.png
+24.6295	0.8044	
+77 img077_x4_HR.png	img077_x4_SR.png
+22.7667	0.6842	
+78 img078_x4_HR.png	img078_x4_SR.png
+28.2953	0.7978	
+79 img079_x4_HR.png	img079_x4_SR.png
+25.7082	0.7106	
+80 img080_x4_HR.png	img080_x4_SR.png
+36.0957	0.9576	
+81 img081_x4_HR.png	img081_x4_SR.png
+38.8603	0.9776	
+82 img082_x4_HR.png	img082_x4_SR.png
+34.1113	0.9490	
+83 img083_x4_HR.png	img083_x4_SR.png
+22.7179	0.7328	
+84 img084_x4_HR.png	img084_x4_SR.png
+29.2337	0.8290	
+85 img085_x4_HR.png	img085_x4_SR.png
+28.7011	0.9108	
+86 img086_x4_HR.png	img086_x4_SR.png
+30.9040	0.8973	
+87 img087_x4_HR.png	img087_x4_SR.png
+29.1477	0.9090	
+88 img088_x4_HR.png	img088_x4_SR.png
+19.9022	0.5901	
+89 img089_x4_HR.png	img089_x4_SR.png
+26.9804	0.7325	
+90 img090_x4_HR.png	img090_x4_SR.png
+39.5861	0.9810	
+91 img091_x4_HR.png	img091_x4_SR.png
+23.7835	0.6716	
+92 img092_x4_HR.png	img092_x4_SR.png
+19.7092	0.6984	
+93 img093_x4_HR.png	img093_x4_SR.png
+30.7687	0.9403	
+94 img094_x4_HR.png	img094_x4_SR.png
+27.5095	0.7987	
+95 img095_x4_HR.png	img095_x4_SR.png
+20.4836	0.4779	
+96 img096_x4_HR.png	img096_x4_SR.png
+26.2817	0.8931	
+97 img097_x4_HR.png	img097_x4_SR.png
+25.2747	0.7842	
+98 img098_x4_HR.png	img098_x4_SR.png
+20.9571	0.5614	
+99 img099_x4_HR.png	img099_x4_SR.png
+26.7832	0.8290	
+100 img100_x4_HR.png	img100_x4_SR.png
+27.1008	0.7732	
+avg_psnr:26.7074	avg_ssim:0.8051

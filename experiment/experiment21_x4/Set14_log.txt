@@ -1,0 +1,29 @@
+1 baboon_x4_HR.png	baboon_x4_SR.png
+23.0847	0.5419	
+2 barbara_x4_HR.png	barbara_x4_SR.png
+26.3715	0.7625	
+3 bridge_x4_HR.png	bridge_x4_SR.png
+25.5023	0.6468	
+4 coastguard_x4_HR.png	coastguard_x4_SR.png
+26.3291	0.5734	
+5 comic_x4_HR.png	comic_x4_SR.png
+23.6621	0.7431	
+6 face_x4_HR.png	face_x4_SR.png
+32.8782	0.7950	
+7 flowers_x4_HR.png	flowers_x4_SR.png
+28.4626	0.8249	
+8 foreman_x4_HR.png	foreman_x4_SR.png
+34.0759	0.9334	
+9 lenna_x4_HR.png	lenna_x4_SR.png
+32.6347	0.8666	
+10 man_x4_HR.png	man_x4_SR.png
+27.4679	0.7543	
+11 monarch_x4_HR.png	monarch_x4_SR.png
+33.6603	0.9493	
+12 pepper_x4_HR.png	pepper_x4_SR.png
+34.5557	0.8837	
+13 ppt3_x4_HR.png	ppt3_x4_SR.png
+27.1238	0.9568	
+14 zebra_x4_HR.png	zebra_x4_SR.png
+27.9065	0.7910	
+avg_psnr:28.8368	avg_ssim:0.7873
